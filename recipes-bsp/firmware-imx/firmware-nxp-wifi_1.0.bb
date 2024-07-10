@@ -10,8 +10,8 @@ LICENSE = "Proprietary"
 LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=44a8052c384584ba09077e85a3d1654f"
 
 SRC_URI = "git://github.com/nxp-imx/imx-firmware.git;protocol=https;branch=${SRCBRANCH}"
-SRCBRANCH = "lf-6.6.3_1.0.0"
-SRCREV = "2afa15e77f0b58eade42b4f59c9215339efcca66"
+SRCBRANCH = "lf-6.6.23_2.0.0"
+SRCREV = "7e038c6afba3118bcee91608764ac3c633bce0c4"
 
 S = "${WORKDIR}/git"
 
